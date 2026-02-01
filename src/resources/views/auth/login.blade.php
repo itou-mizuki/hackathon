@@ -50,7 +50,7 @@
             padding: 20px 25px;
             border: none;
             border-radius: 50px;
-            background: #;
+            background: #98dce6;
             color: white;
             font-size: 1rem;
             outline: none;
